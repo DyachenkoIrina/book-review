@@ -1,0 +1,20 @@
+h1 {
+    font-size: 50px;
+    color: rgb(0, 200, 255);
+}
+p {
+font-size: 30px;
+}
+div {
+    font-size: 30px;
+    color: rgb(202, 250, 10);
+    margin-bottom: 20px;
+}
+button {
+    font-size: 20px;
+    color: rgb(8, 10, 1);
+}
+output {
+font-size: 15px;
+color: rgb(131, 130, 130);
+}
